@@ -1,2 +1,8 @@
 # Lecture Review
-강의 수료증 정리
+강의 수료 정리 
+
+## 개발
+### 2023
+- Udemy Labs – Docker for the Absolute Beginner
+
+## 커뮤니케이션
